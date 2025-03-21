@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-9589" alt="yash-9589" /></a> </p>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **Blockchain-based Payment System**
 
 - 🌱 I’m currently learning **Spring Boot**
 
